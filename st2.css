@@ -1,0 +1,12 @@
+
+body{background-color: #F0DCCA;}
+  
+
+  .box {
+    max-width: 33.33%;
+    padding: 10px;
+    text-align: center;
+    color: #ddd;
+    cursor: pointer;
+  }
+  
